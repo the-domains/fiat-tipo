@@ -1,0 +1,28 @@
+name: FIAT TIPO
+favicon: null
+layout_spectrum: 0.37958987103775144
+typography_spectrum: 0.2504962009843439
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.27820415794849396
+  lightness: 0.586318981833756
+  saturation: 0.8841026613954455
+  rhythmicContrast: 0.21749152755364776
+purpose: []
