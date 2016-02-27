@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[FIAT TIPO]]></title>
-        <description><![CDATA[FIAT TIPO]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[FIAT TIPO AUTOPADOVA]]></title>
+        <description><![CDATA[FIAT TIPO AUTOPADOVA]]></description>
+        <link>https://thegrid.ai/fiat-tipo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 18:31:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 27 Feb 2016 18:40:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fiat-tipo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[NOUL FIAT TIPO, CÂȘTIGĂTOR AL PREMIULUI “AUTOBEST 2016”]]></title>
             <description><![CDATA[<article><h1>NOUL FIAT TIPO, CÂȘTIGĂTOR AL PREMIULUI “AUTOBEST 2016”</h1><h2>SIGURANȚA, ASISTENTUL TĂU DE DRUM</h2><p>FIAT TIPO OPENING EDITION</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/33ff232273bb184edd0661fe827034c393bdbec4.jpg"></article>]]></description>
-            <link>undefinednoul-fiat-tipo-castigator-al-premiului-autobest-2016/index.html</link>
+            <link>https://thegrid.ai/fiat-tipo/noul-fiat-tipo-castigator-al-premiului-autobest-2016/index.html</link>
             <guid isPermaLink="false">f8c33950-738c-4135-a076-94121b391c90</guid>
-            <pubDate>Sat, 27 Feb 2016 18:31:24 GMT</pubDate>
+            <pubDate>Sat, 27 Feb 2016 18:39:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
