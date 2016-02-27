@@ -6,9 +6,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Totul despre noul Fiat & AUTOPADOVA IAsi'
-datePublished: '2016-02-27T18:52:04.202Z'
-dateModified: '2016-02-27T18:45:48.267Z'
-title: 'NOUL FIAT TIPO, CÂȘTIGĂTOR AL PREMIULUI “AUTOBEST 2016”'
+datePublished: '2016-02-27T19:18:46.304Z'
+dateModified: '2016-02-27T19:18:35.934Z'
+title: 'FILOSOFIA TIPO '
 author: []
 sourcePath: _posts/2016-02-27-noul-fiat-tipo-castigator-al-premiului-autobest-2016.md
 published: true
@@ -26,9 +26,7 @@ _type: Article
 
 FIAT TIPO OPENING EDITION
 
-# NOUL FIAT TIPO, CÂȘTIGĂTOR AL PREMIULUI "AUTOBEST 2016"
-
-## FILOSOFIA TIPO
+# FILOSOFIA TIPO
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6fd3c1c-bc16-4a0c-93a7-64eacfc6a265.jpg)
 
 Dotări de serie complexe, în standard. Spațiu pentru tine și familia ta. Confort de clasă superioară, la prețuri mici, mici. Toate acestea reprezintă Filosofia Tipo.
@@ -90,6 +88,8 @@ Geamuri posterioare acționate electric.
 
 Sistem Uconnect 5" cu touchscreen, comenzi digitale intuitive, comenzi pe volan.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b4524ef-68cd-47ed-8c21-bdc7a5a4a5cc.jpg)
+
+# NOUL FIAT TIPO, CÂȘTIGĂTOR AL PREMIULUI "AUTOBEST 2016"
 
 Livrare rapida din stoc \# AUTOPADOVA [www.autopadova.com][0]
 
