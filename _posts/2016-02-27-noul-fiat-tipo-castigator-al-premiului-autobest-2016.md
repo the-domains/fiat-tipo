@@ -6,9 +6,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Totul despre noul Fiat & AUTOPADOVA IAsi'
-datePublished: '2016-02-27T19:18:46.304Z'
-dateModified: '2016-02-27T19:18:35.934Z'
-title: 'FILOSOFIA TIPO '
+datePublished: '2016-02-27T19:24:17.265Z'
+dateModified: '2016-02-27T19:19:24.222Z'
+title: FILOSOFIA TIPO
 author: []
 sourcePath: _posts/2016-02-27-noul-fiat-tipo-castigator-al-premiului-autobest-2016.md
 published: true
