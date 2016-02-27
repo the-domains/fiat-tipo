@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Totul despre noul Fiat & AUTOPADOVA IAsi'
-datePublished: '2016-02-27T18:39:24.998Z'
-dateModified: '2016-02-27T18:38:43.365Z'
+datePublished: '2016-02-27T18:45:31.091Z'
+dateModified: '2016-02-27T18:45:05.163Z'
 title: 'NOUL FIAT TIPO, CÂȘTIGĂTOR AL PREMIULUI “AUTOBEST 2016”'
 author: []
 sourcePath: _posts/2016-02-27-noul-fiat-tipo-castigator-al-premiului-autobest-2016.md
