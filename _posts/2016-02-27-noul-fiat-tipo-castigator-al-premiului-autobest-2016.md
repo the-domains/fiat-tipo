@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Totul despre noul Fiat & AUTOPADOVA IAsi'
-datePublished: '2016-02-27T19:36:47.873Z'
-dateModified: '2016-02-27T19:36:40.108Z'
+datePublished: '2016-02-28T05:59:51.669Z'
+dateModified: '2016-02-27T19:40:11.069Z'
 title: FILOSOFIA TIPO
 author: []
 sourcePath: _posts/2016-02-27-noul-fiat-tipo-castigator-al-premiului-autobest-2016.md
@@ -88,6 +88,10 @@ Geamuri posterioare acționate electric.
 
 Sistem Uconnect 5" cu touchscreen, comenzi digitale intuitive, comenzi pe volan.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b4524ef-68cd-47ed-8c21-bdc7a5a4a5cc.jpg)
+
+# 
+
+# 
 
 # NOUL FIAT TIPO, CÂȘTIGĂTOR AL PREMIULUI "AUTOBEST 2016"
 
