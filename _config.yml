@@ -1,29 +1,41 @@
-name: FIAT TIPO
-favicon: null
-layout_spectrum: 0.49134
-typography_spectrum: 0.2504962009843439
 title: FIAT TIPO AUTOPADOVA
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.5625
+  brandStrength: 0.9981203
+  lightness: 0.6875
+  brandColors:
+    - '#FDFDFD'
+    - '#42010F'
+    - '#919299'
+    - '#383B41'
+    - '#BDBEC5'
+  rhythmicContrast: 0.75
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: FIAT TIPO
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#0d0e09'
-    - '#d0cfd4'
-    - '#3e3935'
-    - '#959499'
-    - '#645751'
-  brandStrength: 0.4375
-  lightness: 0.6875
-  saturation: 0.5625
-  rhythmicContrast: 0.75
-purpose: []
+typography_spectrum: 0.2504962009843439
+layout_spectrum: 0.7274436
