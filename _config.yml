@@ -1,6 +1,6 @@
 name: FIAT TIPO
 favicon: null
-layout_spectrum: 0.25337
+layout_spectrum: 1
 typography_spectrum: 0.48942
 title: FIAT TIPO AUTOPADOVA
 collections:
@@ -29,12 +29,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FDFDFD'
-    - '#42010F'
-    - '#919299'
-    - '#383B41'
-    - '#BDBEC5'
-  brandStrength: 0.5
+    - '#0d0e09'
+    - '#d0cfd4'
+    - '#3e3935'
+    - '#959499'
+    - '#645751'
+  brandStrength: 0.5625
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
