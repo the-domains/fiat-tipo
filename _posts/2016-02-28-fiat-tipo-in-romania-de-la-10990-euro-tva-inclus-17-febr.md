@@ -1,24 +1,24 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://www.fiat.com.ro/news/fiat-tipo-in-romania-de-la-10-990-euro-tva-inclus/'
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'FIAT TIPO, ÎN ROMÂNIA DE LA 10.990 EURO (TVA INCLUS) 17 February 2016  Am început comercializarea noului sedan din gama Fiat în România, prin cele 36 de centre '
-datePublished: '2016-02-28T07:08:07.839Z'
-dateModified: '2016-02-28T07:07:52.877Z'
+datePublished: '2016-03-02T21:10:30.360Z'
+dateModified: '2016-03-02T21:10:27.450Z'
 author: []
 title: ''
+sourcePath: _posts/2016-02-28-fiat-tipo-in-romania-de-la-10990-euro-tva-inclus-17-febr.md
+published: true
 authors: []
 publisher:
   name: fiat.com.ro
   domain: www.fiat.com.ro
   url: null
   favicon: null
-sourcePath: _posts/2016-02-28-fiat-tipo-in-romania-de-la-10990-euro-tva-inclus-17-febr.md
-published: true
+url: fiat-tipo-in-romania-de-la-10990-euro-tva-inclus-17-febr/index.html
 _context: 'http://schema.org'
 _type: Article
 
