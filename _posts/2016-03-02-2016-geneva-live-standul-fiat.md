@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T21:05:20.334Z'
-dateModified: '2016-03-02T21:04:36.907Z'
+datePublished: '2016-03-02T21:10:04.271Z'
+dateModified: '2016-03-02T21:05:37.371Z'
 title: 2016 Geneva Live – Standul Fiat
 author: []
+sourcePath: _posts/2016-03-02-2016-geneva-live-standul-fiat.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-02-2016-geneva-live-standul-fiat.md
-published: true
 url: 2016-geneva-live-standul-fiat/index.html
 _type: Article
 
